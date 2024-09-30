@@ -1,0 +1,1 @@
+<h1> Namaku <?php $snama?> </h1>
